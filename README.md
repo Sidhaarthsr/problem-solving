@@ -1,2 +1,4 @@
 # problem-solving
 This repository contains implementations of all the problem solving approaches using Java, Python and Golang
+
+Brute Force Greedy Algorithms Dynamic Programming Divide and Conquer Backtracking Binary Search Graph Traversal (BFS, DFS) Sliding Window Two Pointers Sorting Algorithms (Quicksort, Mergesort, etc.) Hashing Bit Manipulation Branch and Bound Linear Programming Depth-Limited Search A Search Algorithm* Floyd-Warshall Algorithm Dijkstra's Algorithm Bellman-Ford Algorithm Kruskal's Algorithm Prim's Algorithm Suffix Array/Tree Trie (Prefix Tree) Segment Tree Fenwick Tree (Binary Indexed Tree) Range Minimum Query (RMQ) Mo's Algorithm Ford-Fulkerson Algorithm (Max Flow) Edmonds-Karp Algorithm KMP Algorithm (Knuth-Morris-Pratt) Rabin-Karp Algorithm Manacher's Algorithm Miller-Rabin Primality Test Sieve of Eratosthenes
